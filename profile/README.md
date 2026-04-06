@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo-long.png" alt="ForgePlan" width="500">
+<img src="cover-wide.png" alt="ForgePlan" width="100%">
 
 **Engineering decision tools and methodology frameworks for AI-native teams**
 
