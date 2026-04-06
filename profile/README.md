@@ -114,11 +114,11 @@ forgeplan new prd "Feature Name"        # create artifact → fill → validate 
 
 <div align="center">
 
-### Structure. Evidence. Trust.
-
-**[Get started →](https://github.com/ForgePlan/forgeplan#install)**
+<img src="cover-slim.png" alt="From Raw Idea To Proven Decision" width="100%">
 
 <br>
+
+**[Get started →](https://github.com/ForgePlan/forgeplan#install)**
 
 [Documentation](https://github.com/ForgePlan/forgeplan/blob/main/docs/README.md) · [Releases](https://github.com/ForgePlan/forgeplan/releases) · [Website](https://forgeplan.dev) · [Marketplace](https://github.com/ForgePlan/marketplace)
 
