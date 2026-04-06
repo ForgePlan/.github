@@ -16,7 +16,7 @@ We build open-source tools that turn unstructured engineering work into structur
 |---|---|
 | **[forgeplan](https://github.com/ForgePlan/forgeplan)** | Engineering decision framework — structured artifacts (PRD, RFC, ADR), quality scoring, evidence tracking, AI-agent integration |
 | **[marketplace](https://github.com/ForgePlan/marketplace)** | Plugin ecosystem — methodology skills, development tools, reasoning frameworks |
-| **[forgeplan.md](https://forgeplan.md)** | Official website and documentation portal |
+| **[forgeplan.dev](https://forgeplan.dev)** | Official website and documentation portal |
 
 ### Core ideas
 
